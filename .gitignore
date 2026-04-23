@@ -1,0 +1,16 @@
+# Environments
+.env
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS Files
+.DS_Store
+dump_code.py
+full_codebase.txt
