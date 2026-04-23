@@ -26,8 +26,8 @@ This is a web-based AI Assistant powered by Llama-3.1-8b via Groq, built with Fl
 
 1. **Clone the repository (if applicable):**
    ```sh
-   git clone <repo-url>
-   cd Genai_Flask_App
+   git clone https://github.com/nabeelshan78/genai_flask_app.git
+   cd genai_flask_app
    ```
 
 2. **Create a virtual environment:**
