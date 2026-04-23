@@ -2,6 +2,8 @@
 
 This is a web-based AI Assistant powered by Llama-3.1-8b via Groq, built with Flask and LangChain.
 
+![AI Assistant Chat Interface](image.png)
+
 ## Features
 
 - **Conversational Interface**: Chat UI built with plain HTML, CSS, and JavaScript.
